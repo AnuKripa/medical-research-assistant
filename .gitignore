@@ -1,0 +1,15 @@
+venv/
+venv311/
+
+__pycache__/
+*.pyc
+
+chroma_db/
+vector_db/
+
+temp.pdf
+paper.pdf
+
+.env
+
+.vscode/
